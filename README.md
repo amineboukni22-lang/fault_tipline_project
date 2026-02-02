@@ -8,7 +8,7 @@ L'approche combine :
 - Des simulations stochastiques de **Monte Carlo** pour générer des populations de failles.
 - La **Théorie de l'Information (Entropie de Shannon)** pour piloter un remaillage adaptatif 3D des zones de forte incertitude.
 
-## 📅 Planning du Stage (4 Mois)
+##  Planning du Stage (4 Mois)
 1. **Mois 1 : Fondations & Générateur** - Développement du `FaultGenerator` et validation statistique (Krantz, 1988).
 2. **Mois 2 : Modélisation Incertitude (MCUE)** - Implémentation Monte Carlo et calcul de l'entropie.
 3. **Mois 3 : Remaillage ** - Algorithmes de raffinement de maillage avec PyVista.
